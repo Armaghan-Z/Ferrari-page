@@ -61,7 +61,7 @@ hide: true
             <section>
                 <h2>Overview of the 2024 Season</h2>
                 <p>The Ferrari F1 team, one of the most storied and prestigious names in Formula 1 racing, has had a dynamic and thrilling season so far. Known for their iconic red cars and passionate fanbase, Ferrari’s journey this year has been both exciting and challenging. In this blog, we will delve into Ferrari's performance, their key moments this season, and the factors influencing their success.</p>
-                <img src="/Armaghan_2025/assets/images/Ferrari-sf40.jpeg" alt="Ferrari SF-24">
+                <img src="https://cdn.ferrari.com/cms/network/media/img/resize/65cb42c6604f1d0021785747-2024-scuderia-ferrari-sf-24-launch-desk" alt="Ferrari SF-24">
                 <p><em>The Ferrari SF-24: A blend of tradition and innovation.</em></p>
             </section>
             <section>
@@ -77,7 +77,7 @@ hide: true
                 <div class="highlight">
                     <h3>Notable Performances</h3>
                     <p>Key drivers Charles Leclerc and Carlos Sainz have delivered some standout performances. Leclerc’s aggressive driving style and Sainz’s consistency have been crucial in securing valuable points for the team. Their contributions have kept Ferrari competitive in the championship battle.</p>
-                    <img src="/Armaghan_2025/assets/images/Charles-Leclerc-Podium.jpeg" alt="Charles Leclerc">
+                    <img src="https://www.formulanerds.com/wp-content/uploads/2023/08/Charles-Leclerc-celebrating-his-podium-finish-last-time-out-in-Beligum.jpeg" alt="Charles Leclerc">
                     <p><em>Charles Leclerc in action: A driving force for Ferrari.</em></p>
                 </div>
             </section>
